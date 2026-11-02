@@ -1,4 +1,4 @@
-# Chuyue (Livia) Sun — personal website
+# Livia Sun — personal website
 
 A static, responsive personal website. It needs no build step, server runtime, or third-party JavaScript. The portrait and BibTeX pages are stored locally so the site does not depend on Stanford hosting for those assets.
 

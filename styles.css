@@ -51,7 +51,8 @@ h3 { font-size: 21px; }
 .publication-note { display: block; color: var(--muted); font-size: 14px; margin-top: 3px; }
 .more-link { font-size: 14px; margin: 20px 0 0; }
 .contact { padding-bottom: 70px; }
-.social-links { display: flex; gap: 22px; flex-wrap: wrap; font-size: 15px; }
+.social-links { display: flex; gap: 22px; align-items: center; flex-wrap: wrap; font-size: 15px; }
+.email-button { display: inline-block; border: 1px solid var(--line); padding: 7px 13px; text-decoration: none; }
 .site-footer { border-top: 1px solid var(--line); color: var(--muted); font-size: 13px; padding-block: 20px; }
 
 .page-intro { padding: 65px 0 26px; max-width: 760px; }
